@@ -1,5 +1,5 @@
 ## Hello!
-I am a student at Mother Teresa Highschool learning basic computer programming such as, HTML, PHP, and CSS.
+I am a student at Mother Teresa Highschool learning basic computer programming such as, Java Script, HTML, PHP, and CSS.
 
 <h2>✍ Programming Languages</h2>
 <p>
